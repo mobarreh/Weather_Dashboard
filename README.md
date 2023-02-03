@@ -43,3 +43,6 @@ WHEN I click on a city in the search history
 
 
 THEN I am again presented with current and future conditions for that city
+
+![image](https://user-images.githubusercontent.com/67907083/216608879-846ea679-2c9c-4bd9-91da-a6d45165a7a8.png)
+
