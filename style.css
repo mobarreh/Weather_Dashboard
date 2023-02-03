@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#nav-bar {
+    background-color:blue;
+    height:75px;
+}
+
+.navbar-brand {
+    font-size: 36px;
+    color: white;
+} 
+
+.search-header{
+    height: auto;
+}
+#search-bar{
+
+    width: 100%;
+    border-radius: .4rem;
+    border: .1rem solid black;
+    height: auto;
+
+}
+.card{
+    margin-bottom: 20px;
+    font-size: 20px;
+}
